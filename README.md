@@ -53,7 +53,9 @@ X (x.com) のホーム画面上部にある「おすすめ / For you」タブを
 - 通信（サーバ送信）を行いません
 - 解析・トラッキングを行いません
 
-Privacy Policy: <YOUR_PRIVACY_POLICY_URL>
+Privacy Policy: https://reishisu.github.io/hide-x-for-you/privacy.html
+Support: https://x.com/@re_2521
+Email: poiponn697@gmail.com
 
 ---
 

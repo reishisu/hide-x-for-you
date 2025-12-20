@@ -1,13 +1,39 @@
-# Privacy Policy (HideXForYou)
+# Privacy Policy / プライバシーポリシー
 
-This extension does not collect, store, or transmit personal data.
+Effective date / 施行日: 2025-12-20
 
-## Data access
+## 1. Overview / 概要
+HideXForYou（以下「本拡張」）は、X（x.com）のホーム画面上で表示される「おすすめ / For you」タブを非表示にし、必要に応じて「フォロー中 / Following」へ切り替えやすくするための Chrome 拡張です。
 
-- The extension runs only on `https://x.com/*` and modifies page UI locally.
-- No analytics, tracking, telemetry, or remote code execution is used.
-- No user content is sent to external servers.
+本拡張は X Corp.（旧 Twitter）とは無関係の非公式ツールです。
 
-## Contact
+## 2. Data collection / 収集するデータ
+本拡張は、ユーザーの個人情報または機微なユーザーデータを含む、いかなるユーザーデータも収集しません。  
+（Chrome Web Store の User Data Policy に関して、本拡張はユーザーデータを取り扱いません。）  
 
-If you publish this extension, add your contact information here.
+- 入力情報の収集: なし
+- 閲覧履歴の収集: なし
+- Cookie / 認証情報の収集: なし
+- 解析・トラッキング: なし
+
+## 3. Data usage / データの利用
+本拡張はユーザーデータを収集しないため、収集したデータの利用は行いません。
+
+## 4. Data sharing / 第三者提供
+本拡張はユーザーデータを収集しないため、第三者への共有・販売・提供は行いません。
+
+## 5. Data storage & transfer / 保存・送信
+- ローカル保存: 行いません
+- 外部サーバーへの送信: 行いません
+
+## 6. Permissions / 権限
+本拡張は、X（x.com）上で UI（DOM）を読み取り・変更する目的で、該当サイトに対するホスト権限を使用します。  
+この権限は「おすすめ」タブの検出および非表示化（必要な場合の「フォロー中」クリック）を実現するためにのみ利用します。
+
+## 7. Changes to this policy / 本ポリシーの変更
+本拡張の機能追加等により、データの収集・利用・共有が発生する場合は、本ポリシーを更新し、必要に応じて Chrome Web Store の表示内容（プライバシー項目）も更新します。
+
+## 8. Contact / 連絡先
+本ポリシーに関するお問い合わせ:
+- Email: poiponn697@gmail.com
+- X（旧Twitter）: [@re_2521](https://x.com/re_2521)
