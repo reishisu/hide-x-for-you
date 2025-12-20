@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Node (使う場合)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build / release artifacts
+*.zip
+*.crx
+
+# Private keys (ID固定などでpemを生成した場合はコミットしない)
+*.pem
+
+# Optional: local env
+.env
