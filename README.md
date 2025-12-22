@@ -17,7 +17,7 @@ X (x.com) のホーム画面上部にある「おすすめ / For you」タブを
 ## インストール
 
 ### Chrome Web Store（公開後）
-- Chrome Web Store: https://x.com/re_2521
+- Chrome Web Store: https://chromewebstore.google.com/detail/gcflbnkillllneiidbcoebbcjpbmmhfo?utm_source=item-share-cb
 
 ### ローカル（開発・動作確認）
 1. このリポジトリをクローン or ZIP ダウンロード
